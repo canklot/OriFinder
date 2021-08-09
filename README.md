@@ -6,7 +6,7 @@ The origin of replication (also called the replication origin) is a particular s
 
 
 
-```
+```python
 from collections import Counter
 #Cause of string.count() is slow and we have a HUGE dataset we need a faster method to search. Collections.Counter is a data type for counting data using hash tables which is very fast
 
